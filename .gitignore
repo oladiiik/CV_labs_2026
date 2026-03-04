@@ -1,0 +1,4 @@
+*.pdf
+/.idea
+/core/__pycache__
+/labs/__pycache__
